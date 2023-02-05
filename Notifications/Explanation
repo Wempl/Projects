@@ -1,0 +1,10 @@
+For the project to work, you must 
+have modules such as - PyQt5, player. 
+The instruction itself is as follows: 
+First run the cmd management tool and 
+enter sudo pip3 install PyQt5; pip 
+install plyer to install the modules. 
+And also then do not forget to download 
+the repository and insert the location 
+of the stencil into the code, that is, 
+pictures.
