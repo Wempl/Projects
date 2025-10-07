@@ -33,3 +33,10 @@ Collection of Python projects including ML classifiers, apps, games, and utiliti
 git clone https://github.com/Wempl/Projects.git
 cd "project_folder"
 python main.py
+```
+
+---
+
+<p align="center">
+  <i>Python projects portfolio</i>
+</p>
