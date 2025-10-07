@@ -31,6 +31,5 @@ cd <folder of the project you need>
 ---
 
 <p align="center">
-  Contact with me in telegram:
-@prikazanoo
+  If you have any questions, you can contact me on Telegram: @prikazanoo
 </p>
