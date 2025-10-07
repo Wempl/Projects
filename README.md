@@ -21,13 +21,6 @@ Collection of Python projects including ML classifiers, apps, games, and utiliti
 - **Snake Game** - Classic game
 - **Quiz App** - Interactive trivia
 
-## 🛠 Tech
-- **Language**: Python
-- **ML**: OpenCV, TensorFlow
-- **GUI**: Tkinter, PyQt
-- **Games**: Pygame
-- **Data**: SQLite
-
 ## 💻 Usage
 ```bash
 git clone https://github.com/Wempl/Projects.git
