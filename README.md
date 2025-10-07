@@ -32,11 +32,12 @@ Collection of Python projects including ML classifiers, apps, games, and utiliti
 ```bash
 git clone https://github.com/Wempl/Projects.git
 cd "project_folder"
-python main.py
+cd <folder of the project you need>
 ```
 
 ---
 
 <p align="center">
-  <i>Python projects portfolio</i>
+  Contact with me in telegram:
+@prikazanoo
 </p>
